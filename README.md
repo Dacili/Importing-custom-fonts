@@ -40,6 +40,10 @@ For italic, make sure that ``` font-style: italic;```
 ```
 Repeat this for every font file that you have. If you have only one font file, then awesome, less work!
 
+And based on which format/extension do you have of the font file, you will use a different value in src, format part (https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face):  
+![image](https://github.com/Dacili/Importing-custom-fonts/assets/37112852/78a58189-826e-4553-bcca-6c1960fd7c31)
+
+
 ### 4. Import in the main styles.scss
 
 ```@import 'styles/typography.scss';```  
