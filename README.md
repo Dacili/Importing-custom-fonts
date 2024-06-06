@@ -42,5 +42,12 @@ Repeat this for every font file that you have. If you have only one font file, t
 
 ### 4. Import in the main styles.scss
 
-
+```@import 'styles/typography.scss';```  
+![image](https://github.com/Dacili/Importing-custom-fonts/assets/37112852/7e2507c6-073b-4bc9-8e87-690c1340cbd8)  
+And that's it! You should be able now to add CSS in your app such as:
+```
+.dacili-class {
+font-family: 'Basic-Sans';
+}
+``` 
  
