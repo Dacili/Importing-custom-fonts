@@ -1,5 +1,6 @@
 # Importing custom fonts in app
-How to import custom font in your app?
+How to import custom font in your app?  
+What if I have **same font-family name with different styles and weights** associated with different font files?
 
 ### 1. Get font files
 Firstly, you need to download the font files from somewhere (for example: https://fontsgeek.com/fonts/Basic-Sans-SF-Regular).  
