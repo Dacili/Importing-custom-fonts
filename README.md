@@ -17,8 +17,8 @@ There is a common way of font-weight name mappings (https://developer.mozilla.or
 ![image](https://github.com/Dacili/Importing-custom-fonts/assets/37112852/c4df4270-5074-472b-a118-db6a7a268169)
 We need to **map font files names, with font-weight values** when setting up CSS.   
 On the image we have shown some of matches. If we're missing file for some weight, just ignore that one, and proceed with other font files.  
-![image](https://github.com/Dacili/Importing-custom-fonts/assets/37112852/e715f426-fd99-4629-a0ab-aaf40a0c1617)
-
+![image](https://github.com/user-attachments/assets/30fc3cd7-326d-49bc-b082-a46fcbada7fc)
+  
 Example for **Basic-Sans-Bold.otf file** :
 ``` 
 @font-face {
